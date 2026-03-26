@@ -2,24 +2,29 @@
 
 A full-stack web application built with MongoDB, Express.js, React, and Node.js for showcasing projects and client testimonials. The platform features a public-facing landing page and a secure administrative panel for content management.
 
+## Deploy URL
+
+Frontend: https://project1-frontend-nine.vercel.app/
+Backend: https://project1-ebon-kappa.vercel.app/
+
 ## Features
 
 ### Public Features
-- 📱 **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
-- 🎨 **Project Showcase** - Display portfolio projects with images and descriptions
-- 💬 **Client Testimonials** - Showcase client feedback in the "Happy Clients" section
-- 📧 **Contact Form** - Allow visitors to submit inquiries with validation
-- 📰 **Newsletter Subscription** - Collect email addresses for newsletter updates
-- ⚡ **Fast Loading** - Optimized images and efficient data fetching
+-  **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
+-  **Project Showcase** - Display portfolio projects with images and descriptions
+-  **Client Testimonials** - Showcase client feedback in the "Happy Clients" section
+-  **Contact Form** - Allow visitors to submit inquiries with validation
+-  **Newsletter Subscription** - Collect email addresses for newsletter updates
+-  **Fast Loading** - Optimized images and efficient data fetching
 
 ### Admin Features
-- 🔐 **Secure Authentication** - JWT-based authentication system
-- 📊 **Project Management** - Create, read, update, and delete projects
-- 👥 **Client Management** - Manage client testimonials with full CRUD operations
-- 📬 **Contact Submissions** - View and manage contact form submissions
-- 📮 **Newsletter Management** - View and manage newsletter subscriptions
-- 🖼️ **Automatic Image Processing** - Images automatically cropped to 450x350 pixels
-- 🎯 **Intuitive Interface** - Clean and professional admin panel design
+-  **Secure Authentication** - JWT-based authentication system
+-  **Project Management** - Create, read, update, and delete projects
+-  **Client Management** - Manage client testimonials with full CRUD operations
+-  **Contact Submissions** - View and manage contact form submissions
+-  **Newsletter Management** - View and manage newsletter subscriptions
+-  **Automatic Image Processing** - Images automatically cropped to 450x350 pixels
+-  **Intuitive Interface** - Clean and professional admin panel design
 
 ## Technology Stack
 
@@ -242,7 +247,7 @@ npm run seed:samples
 - **Password:** `admin123`
 - **Email:** `admin@showcase.com`
 
-⚠️ **Security Warning:** Change these credentials immediately in production!
+ **Security Warning:** Change these credentials immediately in production!
 
 ### Start the Backend Server
 
